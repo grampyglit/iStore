@@ -17,7 +17,7 @@ public class IStoreClient implements ClientModInitializer {
      * Lodestone: nothing in vanilla happens when you right-click it with an empty hand, so it never
      * clashes with anything. To use a different block, change this one line (e.g. Blocks.ENDER_CHEST).
      */
-    public static final Block STORAGE_BLOCK = Blocks.LODESTONE;
+    public static final Block STORAGE_BLOCK = Blocks.RESPAWN_ANCHOR;
 
     @Override
     public void onInitializeClient() {

@@ -1,7 +1,7 @@
 # Infinite Storage - client mod (Fabric, Minecraft 26.3)
 
 A client-only mod. It does nothing on its own: it is the screen for the **istore data pack**.
-Right-click a **Lodestone** to open it. Sneak + right-click still places blocks against it, and a compass
+Right-click a **Respawn Anchor** to open it. Sneak + right-click still places blocks against it, and a compass
 still binds to it. To use another block, change `STORAGE_BLOCK` in `IStoreClient.java`.
 
 * Items are listed sorted by count (click the comparator to change sort).
